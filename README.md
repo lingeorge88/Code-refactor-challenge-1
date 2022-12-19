@@ -27,7 +27,7 @@ N/A
 ## Badges
 N/A
 ## Features
-Working webpage with functional HTML and CSS
+Working front end of a webpage with functional HTML and CSS
 
 ## How to Contribute
 More details to come
