@@ -8,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* header style selectors */
+/* header element style selectors */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,16 +41,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* style selector for anchor tag */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+ /* style selector for paragraph element */
 p {
-    font-size: 25px;
+    font-size: 21px;
 }
-
+/* style selector for hero class */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* style selector for float class */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,13 +69,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* style selector for content class */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* consolidated repeat styles into single selectors and applied styling */
+/* consolidated repeat styles into single selectors and applied styling to benefit class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,7 +105,7 @@ p {
     max-width: 150px;
 }
 
-
+/* style selector for solutions management class */
 .solutions-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,7 +124,7 @@ p {
     margin-bottom: 20px;
     font-size: 46px;
 }
-
+/* style selector footer class */
 footer {
     padding: 30px;
     clear: both;
